@@ -1,0 +1,44 @@
+Create admin user
+{
+	"email": "CAshe@blizzard.com",
+	"username": "Viper",
+	"password": "Deadlock",
+	"isAdmin": true
+}
+
+Non-admin credentials
+
+{
+	"username": "BAMF",
+	"password": "Blackwatch"
+}
+
+Create product
+{
+	"name": "Horse brush",
+	"description": "For grooming and caring of your horse's mane and coat",
+	"price": 250,
+	"isActive": true
+}
+
+Create many products
+[
+{
+	"name": "Hunting bow",
+	"description": "For taking down targets silently, can be used for small to medium game animals",
+	"price": 400,
+	"isActive": true
+},
+{
+	"name": "Improved saddlebag",
+	"description": "Carry even more items on your trips",
+	"price": 900,
+	"isActive": true
+},
+{
+	"name": "Lever action rifle",
+	"description": "When six shots ain't gonna cut it",
+	"price": 1000,
+	"isActive": true
+}
+]
